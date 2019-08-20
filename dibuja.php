@@ -8,9 +8,7 @@ if($number < 0){
     die;
 }else{
     $draw = "";
-    $baseV = 6;
-    $completos = floor($number / 1);
-    var_dump($completos);
+    
     ?>
     <pre>
 <?php
